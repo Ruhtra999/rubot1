@@ -9,6 +9,6 @@
   "author": "Ruhtra99",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.0.1"
+    "discord.js": "^11.2.1"
   }
 }
